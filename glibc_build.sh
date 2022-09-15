@@ -1,5 +1,5 @@
 #!/bin/bash
-
+set -ex
 SRC="./glibc_src"
 BUILD="./glibc_build"
 VERSION="./glibc_versions"
